@@ -152,3 +152,4 @@ for target in targets:
 
 
 ## Result:
+The Random Forest model successfully predicted temperature, PM2.5 pollution, and solar radiation using weather sensor data with good accuracy. The system also generated next-step predictions and visual graphs comparing actual vs predicted values and showing feature importance.
